@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Check out this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is available at: https://appointmentplanner123.netlify.app/
 
 ## Available Scripts
 
